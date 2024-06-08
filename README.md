@@ -1,0 +1,1 @@
+This repository contains R code for time series analysis of financial markets. ARIMA (AutoRegressive Integrated Moving Average) and ETS (Error, Trend, Seasonality) models were used to understand and forecast trends in financial markets. ARIMA emerged as the preferred choice due to its adaptability to the complexities of the dataset.

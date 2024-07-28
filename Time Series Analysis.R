@@ -1,6 +1,3 @@
-# This is the R file for the ECon 5337 Project "Impact of MacroEconomic Indicators on the Financial Markets"
-
-# The dataset for this file is on the "Data Description" section of the project report
 
 # the file contains the code for 1. S&P500 2. Bitcoin 3. Gold
 
@@ -11,7 +8,7 @@
 # The Stock Market- S&P 500
 library(fpp2)
 
-SnP500  # Please import the dataset from the project report Data Decription link
+SnP500  # Please import the dataset 
 
 
 df= ts(SnP500)
